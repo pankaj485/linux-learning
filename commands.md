@@ -52,6 +52,8 @@
 
 [BASH Scripts](#bash-scripts)
 
+---
+
 ## Few Example Commands
 
 - `pwd`: print working directory
