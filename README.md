@@ -10,7 +10,7 @@
 
 [List File (ls)](#list-file-ls)
 
-[File Permissions](#file-name-and-spaces)
+[File Permissions](#file-permissions)
 
 [Environment Variables](#environment-variables)
 
